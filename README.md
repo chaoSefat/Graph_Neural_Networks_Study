@@ -1,4 +1,4 @@
-# Graph_Neural_Networks_Study
+# GNN Study Notes
 
 Graph Neural Networks (GNNs) are designed to work with data structured as graphs. Graphs are mathematical structures used to model pairwise relations between objects. The data used in GNNs typically includes:
 
